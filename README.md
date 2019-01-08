@@ -19,10 +19,12 @@
 数据处理已经修改
 
 使用Pytorch 复现 PCNN+MIL (Zeng 2015) 与 PCNN+ATT (Lin 2016), 以及两个模型在两个大小版本的数据集上(27类关系/53类关系)的表现对比。
-
+PCNN+ATT是在PCNN+MIL的基础上引入了attention机制。
 
 
 相关博客:
+
+- [关系抽取总结](https://blog.csdn.net/sinat_36972314/article/details/80266698)
 
 - [关系抽取论文笔记](http://shomy.top/2018/02/28/relation-extraction/)
 
