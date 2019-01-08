@@ -18,7 +18,7 @@
     
 数据处理已经修改
 
-使用Pytorch 复现 PCNN+MIL (Zeng 2015) 与 PCNN+ATT (Lin 2016), 以及两个模型在两个大小版本的数据集上(27类关系/53类关系)的表现对比。
+使用Pytorch 复现 [PCNN+MIL](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf) (Zeng 2015) 与 [PCNN+ATT](https://www.aclweb.org/anthology/P/P16/P16-1200v2.pdf) (Lin 2016), 以及两个模型在两个大小版本的数据集上(27类关系/53类关系)的表现对比。
 PCNN+ATT是在PCNN+MIL的基础上引入了attention机制。
 
 
